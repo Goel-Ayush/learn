@@ -1,0 +1,8 @@
+#include<stdio.h>
+
+int main()  {
+  int num;
+  printf("Enter Integer Data :");
+  scanf("%d",&num); //Taking input
+  return 0;
+ }
