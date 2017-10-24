@@ -1,0 +1,8 @@
+void main() {
+  int ThisIsInteger;
+  char ThisIsCharacter;
+  float ThisIsDecimal;
+  long int LongInteger;
+  long long int VeryLongInteger;
+  
+ }
