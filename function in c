@@ -1,0 +1,10 @@
+#include<stdio.h>
+
+int add(int a, int b) {
+  return a+b;
+ }
+ 
+ void main()  {
+  int a = add(5,3);
+  // a now has value 8
+ }
